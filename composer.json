@@ -1,0 +1,8 @@
+{
+    "name": "dynamikdev/wp-batch-processing",
+    "require": {},
+    "description": "WP Batch Processing",
+    "autoload": {
+        "files": ["wp-batch-processing.php"]
+    }
+}
